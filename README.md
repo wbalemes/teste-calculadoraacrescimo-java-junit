@@ -1,6 +1,6 @@
 # teste-calculadoraacrescimo-java-junit
 
-Foi construido uma calculadora em java com a fnção de entrar com um valor qualquer e acrescentar 10% a esse valor e exibir o valor final na tela.
+Foi construido uma calculadora em java com a função de entrar com um valor qualquer e acrescentar 10% a esse valor e exibir o valor final na tela.
 
 Metodo:
 valorNovo = valor * 1.1;
