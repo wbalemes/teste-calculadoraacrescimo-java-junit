@@ -5,7 +5,7 @@ Foi construido uma calculadora em java com a fnção de entrar com um valor qual
 Metodo:
 valorNovo = valor * 1.1;
 
-Também criamos um teste unitário com o obejtvo de testar o metodo
+Também criamos um teste unitário com o obejtvo de testar o metodo.
 
 Ferramentas e tecnologias utilizadas:
 
